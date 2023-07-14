@@ -38,11 +38,11 @@ namespace _14_jul_exercise1
                     Console.WriteLine($"Employee {i + 1}:");
                     for (int j = 0; j < numWorkingDays; j++)
                     {
-                        Console.WriteLine($"Day{j + 1}: {salaries[i][j]}");
+                        Console.Write($"Day{j + 1}: {salaries[i][j]}");
                         totalSalary += salaries[i][j];
                     }
 
-                    Console.WriteLine($"Total Salary: {totalSalary}\n");
+                    Console.Write($"Total Salary: {totalSalary}\n");
                 }
 
                 Console.ReadKey();
