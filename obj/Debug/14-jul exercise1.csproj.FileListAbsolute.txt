@@ -1,0 +1,7 @@
+D:\exercises\14-7\14-jul exercise1\14-jul exercise1\bin\Debug\14-jul exercise1.exe.config
+D:\exercises\14-7\14-jul exercise1\14-jul exercise1\bin\Debug\14-jul exercise1.exe
+D:\exercises\14-7\14-jul exercise1\14-jul exercise1\bin\Debug\14-jul exercise1.pdb
+D:\exercises\14-7\14-jul exercise1\14-jul exercise1\obj\Debug\14-jul exercise1.csproj.AssemblyReference.cache
+D:\exercises\14-7\14-jul exercise1\14-jul exercise1\obj\Debug\14-jul exercise1.csproj.CoreCompileInputs.cache
+D:\exercises\14-7\14-jul exercise1\14-jul exercise1\obj\Debug\14-jul exercise1.exe
+D:\exercises\14-7\14-jul exercise1\14-jul exercise1\obj\Debug\14-jul exercise1.pdb
